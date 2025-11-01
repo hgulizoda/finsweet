@@ -1,4 +1,4 @@
-import logoIpsum from "../assets/icons/logoIpsum.svg";
+import logoIpsum from "../assets/icons/logoipsum.svg";
 const LogoList = () => {
   return (
     <div
